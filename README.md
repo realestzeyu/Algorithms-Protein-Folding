@@ -5,7 +5,8 @@
 > Please read the report for better understanding of what we are doing in the ipynb file.
 > 
 > [ Viewing Notebook (Optimised)](https://github.com/realestzeyu/Algorithms-Protein-Folding/blob/main/Protein%20Folding%20Main%20File%20with%202a3d%20Optimised.ipynb)  
-> [ Downloadable Notebook (Full Version)](https://github.com/realestzeyu/Algorithms-Protein-Folding/blob/main/Protein%20Folding%20Main%20File%20with%202a3d.ipynb)  
+> [ Downloadable Notebook (Full Version)](https://github.com/realestzeyu/Algorithms-Protein-Folding/blob/main/Protein%20Folding%20Main%20File%20with%202a3d.ipynb)
+> Running the algorithm gets different results everytime, thus don't be surprised when the graph does not match the on in report
 > _This readme is HEAVILY simplifed, for full details, refer to the PDF report in this repository:_ [📄 Project Report (PDF)](https://github.com/realestzeyu/Algorithms-Protein-Folding/blob/main/Metaheuristics%20Report%20for%20Github.pdf)
 
 
