@@ -2,9 +2,11 @@
 
 > ⚠️ **Disclaimer**  
 > Due to the large file size, there is one optimised version for viewing on GitHub and one downloadable version.
+> Please read the report for better understanding of what we are doing in the ipynb file.
+> 
 > [Viewing Notebook (Optimised)](https://github.com/realestzeyu/Algorithms-Protein-Folding/blob/main/Protein%20Folding%20Main%20File%20with%202a3d%20Optimised.ipynb)  
 > [📥 Downloadable Notebook (Full Version)](https://github.com/realestzeyu/Algorithms-Protein-Folding/blob/main/Protein%20Folding%20Main%20File%20with%202a3d.ipynb)  
-> _This readme is HEAVILY simplifed, for full details, refer to the PDF report in this repository:_ [📄 Project Report (PDF)](https://github.com/realestzeyu/Algorithms-Protein-Folding/blob/main/HST%20Final%20Report.pdf)
+> _This readme is HEAVILY simplifed, for full details, refer to the PDF report in this repository:_ [📄 Project Report (PDF)](https://github.com/realestzeyu/Algorithms-Protein-Folding/blob/main/Metaheuristics%20Report%20for%20Github.pdf)
 
 
 ## 📌 Introduction  
