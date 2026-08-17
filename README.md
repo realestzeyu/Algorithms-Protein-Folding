@@ -18,7 +18,7 @@
 > 🤖 **On AI assistance:** The original project — the research, algorithms, notebooks, and report — is entirely my own work. [Claude Code](https://claude.com/claude-code) was used **only** to refactor that existing code into the `src/` package and add supporting tooling (CLI, benchmarks). The methods and results are unchanged.
 
 
-## 📌 Introduction  
+## Introduction  
 Protein folding is the process where a linear chain of amino acids (the **primary structure**) spontaneously collapses into a stable 3D conformation (the **tertiary structure**).  
 Even with the complete amino acid sequence, predicting this final structure remains an **NP-Hard problem** due to the **astronomical number of possible configurations** and complex interactions among residues.
 
@@ -29,7 +29,7 @@ To enhance this, we incorporated the **Miyazawa–Jernigan (MJ) energy matrix**,
 
 ---
 
-## 🛠️ Refactored Codebase (cleaner version)
+## Refactored Codebase (cleaner version)
 
 The original notebooks are kept exactly as they are. The same logic has also been
 refactored into a clean, importable Python package under
@@ -110,14 +110,14 @@ and **asserts the energies are identical**, so every speedup is provably behavio
 
 ---
 
-## 📂 Dataset Overview  
+## Dataset Overview  
 - **Source**: Protein Data Bank (PDB)  
 - **Example**: [`2a3d.pdb`](https://www.rcsb.org/structure/2a3d)  
 - Note: Users may download any `.pdb` file of interest for folding experiments, simply change the pdb file name at the end of notebook
 
 ---
 
-## ⚙️ Methodology  
+## Methodology  
 
 We implemented and benchmarked several metaheuristic approaches:
 
@@ -139,6 +139,6 @@ We implemented and benchmarked several metaheuristic approaches:
 
 ---
 
-## 📈 Key Findings  
+## Key Findings  
 > _Summary of results and insights are available in the PDF report._ [📄 Project Report (PDF)](https://github.com/realestzeyu/Algorithms-Protein-Folding/blob/main/Metaheuristics%20Report%20for%20Github.pdf)
 
